@@ -5,6 +5,7 @@
 - Real chickens play game of chicken.
 - You swipe to move the chicken.
 - The shorter distance chicken to the cliff wins.
+- This game contains ads.
 
 ![Image](./images/game_of_real_chicken.png)
 
@@ -22,3 +23,5 @@ These follows assets are used in this game.
   - Publisher: ALP8310
 - [Yughues Free Ground Materials](https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001)
   - Publisher:Nobiax / Yughues
+- [Terrain Textures Pack Free](https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-pack-free-139542)
+  - Publisher: ALP8310
