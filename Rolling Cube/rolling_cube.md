@@ -1,6 +1,6 @@
 # rollign cube_privacy_policy
 
-# What is Rolling Cube?
+# What is Rolling Cube?(Flowing Cube)
 
 - How far can you go to avoid obstacles?
 - This game contains ads.
